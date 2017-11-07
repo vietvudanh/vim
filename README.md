@@ -7,6 +7,10 @@ This is my vim config, to use it anywhere :)
 2. mv ~/vim ~/.vim
 3. ln -s ~/.vim/.vimrc ~/.vimrc
 
+Or singl line:
+    
+    git clone https://github.com/vietvudanh/vim ; mv ~/vim ~/.vim; ln -s ~/.vim/.vimrc ~/.vimrc
+
 That's it. Enjoy your vim with viet's settings.
 
 @2015 VietVu
