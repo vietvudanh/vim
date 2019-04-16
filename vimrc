@@ -13,7 +13,7 @@ set number
 
 " shortcut
 map <C-x> :w <CR>:!bash %<CR>
-map <C-p> :w <CR>:!python %<CR>
+map <C-p> :w <CR>:!python3 %<CR>
 
 " show character
 " :set list
